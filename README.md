@@ -15,8 +15,8 @@ This repository contains a curated collection of **Data Structures and Algorithm
 ## 🔧 Language & Tools
 
 - **Language:** C++
-- **IDE/Editor:** VS Code / Code::Blocks / CLion / any C++ IDE
-- **Compiler:** g++, clang++, MSVC
+- **IDE/Editor:** VS Code 
+- **Compiler:** g++
 
 ---
 
